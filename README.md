@@ -1,6 +1,7 @@
 # A-MOUSE
 Custom-designed computer mouse by  myself using Blueprint Project from Hack Club.
 The design was created in Onshape, a cloud-based CAD platform, making it easy to access, modify, and collaborate online.
+
 <img width="1677" height="847" alt="a-mouse" src="https://github.com/user-attachments/assets/70bba60a-b94b-4d0c-8768-7c726ba66841" />
 
 # Full project link:
@@ -21,3 +22,5 @@ The project is available in multiple formats for flexibility:
 inventor - Full assembly and part files compatible with Autodesk Inventor
 photo - Rendered images and previews
 battery tab - Holder for battery
+
+Print the case, screw screws, insert battery, plug the dongle in your PC and you're good to go!
